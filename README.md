@@ -1,6 +1,3 @@
-# yoloV5_ultralytics
-about installation, setup and execution of yolov5
-
 # yolov5
 about installation, setup and execution of yolov5 
 README - YOLOv5 Object Detection Project
