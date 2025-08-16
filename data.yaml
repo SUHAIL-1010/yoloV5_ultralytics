@@ -1,0 +1,5 @@
+train: .../mydata/images/train
+val: .../mydata/images/valid
+test: .../mydata/images/test
+nc: 6
+names: ['Heavy Gun', '#####', 'Person', 'Pistol', 'pistol', 'rifle']
